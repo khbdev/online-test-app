@@ -117,5 +117,5 @@ All services are **Dockerized**, follow **Clean Architecture principles**, and i
 * **RabbitMQ** handles asynchronous communication between services.
 * Future plan: integrate **Consul** for service discovery and health checks.
 
----
 
+---
