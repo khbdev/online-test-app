@@ -1,0 +1,31 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Ignore vendor folder (agar siz module vendor qilmagan bo‘lsangiz)
+vendor/
+
+# Ignore IDE/editor files
+*.idea/
+*.vscode/
+*.swp
+*.DS_Store
+
+# Ignore node_modules (agar frontend bo‘lsa)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+tmp/
+temp/
